@@ -4,23 +4,30 @@ export const projects: Project[] = [
   {
     title: "GraphQL Query Toolkit",
     description:
-      "A comprehensive GraphQL integration package that provides tRPC-like developer experience with type-safe cache management, multi-endpoint support, and React Query integration.",
-    github: "https://www.npmjs.com/package/graphql-query-toolkit",
-    tags: ["GraphQL", "TypeScript", "React Query", "tRPC-like", "package"],
+      "Open-source npm package providing a tRPC-like developer experience for GraphQL — type-safe cache invalidation, multi-endpoint support, React Query integration, and CLI-driven code generation.",
+    github: "https://github.com/designedhead/graphql-query-toolkit",
+    tags: ["GraphQL", "TypeScript", "React Query", "GraphQL CodeGen", "package"],
   },
   {
     title: "React Focus Point",
     description:
-      "A React component that enables dynamic focal point positioning for responsive images, ensuring the main subject remains visible across different screen sizes and aspect ratios.",
+      "Published npm package — a React component for dynamic focal point positioning on responsive images, using CSS object-fit with interactive coordinate selection.",
     github: "https://github.com/designedhead/react-focus-point",
-    tags: ["React", "TypeScript", "package", "Image Handling"],
+    tags: ["React", "TypeScript", "Tailwind CSS", "package"],
   },
   {
     title: "Wedsite.ai",
     description:
-      "Full-stack AI-powered website builder platform with drag-and-drop editor, automated subdomain system, and AI-powered onboarding tools.",
+      "Live SaaS product — AI-powered wedding website builder with drag-and-drop editor, custom domain provisioning, guest RSVP management, email invitations with tracking, and an AI planning assistant.",
     link: "https://wedsite.ai",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "AI"],
+    tags: ["Next.js", "TypeScript", "Tailwind", "PostgreSQL", "Drizzle ORM", "AI"],
+  },
+  {
+    title: "poly-lexis",
+    description:
+      "CLI tool and TypeScript library for managing i18n translations — auto-translation via DeepL/Google Translate, missing-key validation for CI/CD pipelines, type-safe TypeScript generation, and protected-terms support.",
+    github: "https://github.com/designedhead/poly-lexis",
+    tags: ["TypeScript", "Node.js", "DeepL API", "Jest", "CLI"],
   },
   {
     title: "SAM - Lush",

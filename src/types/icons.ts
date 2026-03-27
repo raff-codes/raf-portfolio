@@ -14,3 +14,8 @@ export type IconName =
   | 'githubactions'
   | 'redis'
   | 'tailwindcss'
+  | 'apollographql'
+  | 'amazonwebservices'
+  | 'googlecloud'
+  | 'grafana'
+  | 'sentry'

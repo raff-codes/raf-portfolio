@@ -1,0 +1,477 @@
+{
+  "picture": {
+    "hidden": false,
+    "url": "https://rxresu.me/uploads/019d17cb-7b48-7213-939e-a5b499076f2c/pictures/1774221791299.webp",
+    "size": 80,
+    "rotation": 0,
+    "aspectRatio": 1,
+    "borderRadius": 50,
+    "borderColor": "rgba(0,0,0,0)",
+    "borderWidth": 0,
+    "shadowColor": "rgba(0,0,0,0)",
+    "shadowWidth": 0
+  },
+  "basics": {
+    "name": "Rafael Mendes",
+    "headline": "Senior Full Stack Engineer",
+    "email": "mrrafaelmendes@gmail.com",
+    "phone": "",
+    "location": "Aylesbury, England, United Kingdom",
+    "website": {
+      "url": "https://rafaelmendes.co.uk",
+      "label": "Portfolio"
+    },
+    "customFields": []
+  },
+  "summary": {
+    "title": "Summary",
+    "columns": 1,
+    "hidden": false,
+    "content": "<p>Senior Full Stack Engineer with 6+ years of experience building high-traffic distributed systems, scalable APIs, and cross-platform applications. Proven impact: optimised systems handling 1200+ req/s at 99.9% uptime, delivered £250k+ in annual cost savings, and led teams of up to 15 engineers. Deep expertise in Node.js/TypeScript backends, React frontends, cloud-native infrastructure (AWS/GCP/K8s), and GraphQL at scale. Background in product management drives a focus on shipping reliable systems that solve real business problems.</p>"
+  },
+  "sections": {
+    "profiles": {
+      "title": "Profiles",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "a1b2c3d4-0001-4000-8000-000000000001",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "icon": "linkedin-logo",
+          "network": "LinkedIn",
+          "username": "mrrafaelmendes",
+          "website": {
+            "url": "https://linkedin.com/in/mrrafaelmendes",
+            "label": "LinkedIn"
+          }
+        },
+        {
+          "id": "a1b2c3d4-0001-4000-8000-000000000002",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "icon": "GithubLogo",
+          "network": "GitHub",
+          "username": "designedhead",
+          "website": {
+            "url": "https://github.com/designedhead",
+            "label": "GitHub"
+          }
+        },
+        {
+          "id": "a1b2c3d4-0001-4000-8000-000000000003",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "icon": "Globe",
+          "network": "Website",
+          "username": "rafaelmendes.co.uk",
+          "website": {
+            "url": "https://rafaelmendes.co.uk",
+            "label": "Website"
+          }
+        }
+      ]
+    },
+    "experience": {
+      "title": "Experience",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "a1b2c3d4-0002-4000-8000-000000000001",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "company": "LUSH Digital",
+          "position": "Senior Full Stack Engineer",
+          "location": "Remote",
+          "period": "Apr 2023 - Present",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<ul><li>Led a team of 5 engineers — providing technical direction, running 1-on-1s, and conducting performance reviews while staying hands-on with architecture and code.</li><li>Designed and optimised high-traffic systems handling 1200+ req/s with advanced caching, load balancing, and multi-region deployments (AWS ECS, GCP GKE), maintaining 99.9%+ uptime.</li><li>Architected GraphQL supergraphs with Apollo Federation and event-driven backends (Pub/Sub, BullMQ), enabling modular API design across multiple teams.</li><li>Delivered £250k+ in annual cost savings through infrastructure optimisation, runtime benchmarking (Node.js, Bun, Hono), and resource-tuned Kubernetes clusters.</li><li>Built end-to-end observability with Sentry, Grafana/Prometheus, and GCP Monitoring; established CI/CD pipelines that enabled a weekly release cadence.</li><li>Managed PostgreSQL databases with Drizzle ORM — schema design, query optimisation, indexing strategies, and zero-downtime migrations.</li></ul>",
+          "roles": []
+        },
+        {
+          "id": "a1b2c3d4-0002-4000-8000-000000000002",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "company": "LUSH Digital",
+          "position": "Full Stack Developer",
+          "location": "",
+          "period": "May 2022 - Apr 2023",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<ul><li>Built and shipped web applications using Next.js (Pages &amp; App Router), React 18, and TypeScript serving global markets with full internationalisation support.</li><li>Developed internal shop management tools that streamlined day-to-day retail operations across multiple regions.</li><li>Created Edge workers for Lush.com URL routing, improving site performance and SEO.</li><li>Designed PostgreSQL schemas with performance-focused indexing; established Jest/RTL testing patterns adopted across the frontend team.</li><li>Mentored junior developers on React best practices and component composition patterns.</li></ul>",
+          "roles": []
+        },
+        {
+          "id": "a1b2c3d4-0002-4000-8000-000000000003",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "company": "Selected Group",
+          "position": "Technical Product &amp; Engineering Manager",
+          "location": "Brighton, England",
+          "period": "Feb 2019 - May 2022",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<ul><li>Led up to 15 engineers across an 11-product portfolio — introduced code sprints, code reviews, and shape-up methodologies that accelerated delivery.</li><li>Took over a stagnant consumer app, rebuilt the engineering team, and shipped a suite of resident-facing tools that increased user activity by 420% (weekly sessions from 1 to 3.9).</li><li>Architected a cross-platform integration that drove a 285% increase in B2B sales.</li><li>Built and trained a UI/UX design function from scratch, directly improving sprint velocity and product quality.</li><li>Ran customer discovery interviews and translated pain points into prioritised engineering roadmaps.</li></ul>",
+          "roles": []
+        },
+        {
+          "id": "a1b2c3d4-0002-4000-8000-000000000004",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "company": "Diliviri.com",
+          "position": "Technical Business Development Manager",
+          "location": "Brighton, England",
+          "period": "Jun 2018 - Feb 2019",
+          "website": {
+            "url": "",
+            "label": ""
+          },
+          "description": "<ul><li>Led a team of engineers building fleet dispatching software for food &amp; retail companies; signed 25+ businesses at launch.</li><li>Redirected the company from physical logistics to a pure-software product, improving driver efficiency by 45%.</li></ul>",
+          "roles": []
+        }
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "columns": 1,
+      "hidden": true,
+      "items": []
+    },
+    "projects": {
+      "title": "Projects",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "a1b2c3d4-0003-4000-8000-000000000001",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "name": "graphql-query-toolkit",
+          "period": "",
+          "website": {
+            "url": "https://github.com/designedhead/graphql-query-toolkit",
+            "label": "GitHub"
+          },
+          "description": "<p>Open-source npm package providing a tRPC-like developer experience for GraphQL — type-safe cache invalidation, multi-endpoint support, React Query integration, and CLI-driven code generation.</p><p><strong>Tech:</strong> TypeScript, GraphQL, React Query, GraphQL CodeGen</p>"
+        },
+        {
+          "id": "a1b2c3d4-0003-4000-8000-000000000002",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "name": "react-focus-point",
+          "period": "",
+          "website": {
+            "url": "https://github.com/designedhead/react-focus-point",
+            "label": "GitHub"
+          },
+          "description": "<p>Published npm package — a React component for dynamic focal point positioning on responsive images, using CSS object-fit with interactive coordinate selection.</p><p><strong>Tech:</strong> React, TypeScript, Tailwind CSS</p>"
+        },
+        {
+          "id": "a1b2c3d4-0003-4000-8000-000000000003",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "name": "Wedsite.ai",
+          "period": "",
+          "website": {
+            "url": "https://wedsite.ai",
+            "label": "Live"
+          },
+          "description": "<p>Live SaaS product — AI-powered wedding website builder with drag-and-drop editor, custom domain provisioning, guest RSVP management, email invitations with tracking, and an AI planning assistant. Free tier with paid upgrades.</p><p><strong>Tech:</strong> Next.js, TypeScript, Tailwind, PostgreSQL, Drizzle ORM, AI</p>"
+        },
+        {
+          "id": "a1b2c3d4-0003-4000-8000-000000000004",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "name": "poly-lexis",
+          "period": "",
+          "website": {
+            "url": "https://github.com/designedhead/poly-lexis",
+            "label": "GitHub"
+          },
+          "description": "<p>CLI tool and TypeScript library for managing i18n translations — auto-translation via DeepL/Google Translate, missing-key validation for CI/CD pipelines, type-safe TypeScript generation, and protected-terms support for brand names.</p><p><strong>Tech:</strong> TypeScript, Node.js, DeepL API, Jest, tsup</p>"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Skills",
+      "columns": 2,
+      "hidden": false,
+      "items": [
+        {
+          "id": "a1b2c3d4-0004-4000-8000-000000000001",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "icon": "",
+          "name": "Backend & APIs",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "Node.js",
+            "TypeScript",
+            "GraphQL",
+            "Apollo Federation",
+            "REST APIs",
+            "tRPC",
+            "WebSockets",
+            "SSE",
+            "Bun",
+            "Hono",
+            "Express",
+            "Auth0"
+          ]
+        },
+        {
+          "id": "a1b2c3d4-0004-4000-8000-000000000002",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "icon": "",
+          "name": "Frontend & Mobile",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "React",
+            "Next.js",
+            "React Native",
+            "React Query",
+            "Tailwind CSS"
+          ]
+        },
+        {
+          "id": "a1b2c3d4-0004-4000-8000-000000000003",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "icon": "",
+          "name": "Databases & Messaging",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "PostgreSQL",
+            "Redis",
+            "Google Pub/Sub",
+            "BullMQ",
+            "Event-Driven Architecture",
+            "Drizzle ORM",
+            "Prisma"
+          ]
+        },
+        {
+          "id": "a1b2c3d4-0004-4000-8000-000000000004",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "icon": "",
+          "name": "Infrastructure & DevOps",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "Kubernetes",
+            "Docker",
+            "Terraform",
+            "AWS",
+            "GCP",
+            "CI/CD",
+            "GitLab",
+            "Git"
+          ]
+        },
+        {
+          "id": "a1b2c3d4-0004-4000-8000-000000000005",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "icon": "",
+          "name": "Observability & Testing",
+          "proficiency": "",
+          "level": 0,
+          "keywords": [
+            "Grafana",
+            "Prometheus",
+            "Sentry",
+            "Google Cloud Monitoring",
+            "Jest"
+          ]
+        }
+      ]
+    },
+    "languages": {
+      "title": "Languages",
+      "columns": 1,
+      "hidden": false,
+      "items": [
+        {
+          "id": "a1b2c3d4-0005-4000-8000-000000000001",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "language": "English",
+          "fluency": "Native or bilingual",
+          "level": 5
+        },
+        {
+          "id": "a1b2c3d4-0005-4000-8000-000000000002",
+          "hidden": false,
+          "options": {
+            "showLinkInTitle": false
+          },
+          "language": "Portuguese",
+          "fluency": "Native or bilingual",
+          "level": 5
+        }
+      ]
+    },
+    "interests": {
+      "title": "Interests",
+      "columns": 1,
+      "hidden": true,
+      "items": []
+    },
+    "awards": {
+      "title": "Awards",
+      "columns": 1,
+      "hidden": true,
+      "items": []
+    },
+    "certifications": {
+      "title": "Certifications",
+      "columns": 1,
+      "hidden": true,
+      "items": []
+    },
+    "publications": {
+      "title": "Publications",
+      "columns": 1,
+      "hidden": true,
+      "items": []
+    },
+    "volunteer": {
+      "title": "Volunteer",
+      "columns": 1,
+      "hidden": true,
+      "items": []
+    },
+    "references": {
+      "title": "References",
+      "columns": 1,
+      "hidden": true,
+      "items": []
+    }
+  },
+  "customSections": [],
+  "metadata": {
+    "template": "leafish",
+    "layout": {
+      "sidebarWidth": 35,
+      "pages": [
+        {
+          "fullWidth": false,
+          "main": [
+            "summary",
+            "experience",
+            "education",
+            "interests",
+            "awards",
+            "certifications",
+            "publications",
+            "volunteer",
+            "references"
+          ],
+          "sidebar": [
+            "profiles",
+            "skills",
+            "languages"
+          ]
+        },
+        {
+          "fullWidth": false,
+          "main": [
+            "projects"
+          ],
+          "sidebar": []
+        }
+      ]
+    },
+    "css": {
+      "enabled": false,
+      "value": ""
+    },
+    "page": {
+      "gapX": 16,
+      "gapY": 16,
+      "marginX": 18,
+      "marginY": 18,
+      "format": "a4",
+      "locale": "en-US",
+      "hideIcons": false
+    },
+    "design": {
+      "level": {
+        "icon": "CircleNotch",
+        "type": "circle"
+      },
+      "colors": {
+        "primary": "rgba(0, 0, 0, 1)",
+        "text": "rgba(0, 0, 0, 1)",
+        "background": "rgba(255, 255, 255, 1)"
+      }
+    },
+    "typography": {
+      "body": {
+        "fontFamily": "Inter",
+        "fontWeights": [
+          "400"
+        ],
+        "fontSize": 11,
+        "lineHeight": 1.5
+      },
+      "heading": {
+        "fontFamily": "Inter",
+        "fontWeights": [
+          "700"
+        ],
+        "fontSize": 14,
+        "lineHeight": 1.5
+      }
+    },
+    "notes": ""
+  }
+}
