@@ -1,0 +1,147 @@
+---
+import Layout from "../../layouts/Layout.astro";
+
+const lastUpdated = "May 6, 2026";
+---
+
+<Layout
+  title="Wake Rower — Privacy Policy"
+  description="Wake Rower privacy policy. No accounts, fully offline, no trackers."
+  noindex
+>
+  <main class="min-h-screen px-6 md:px-24 lg:px-32 max-w-3xl mx-auto py-20 md:py-32">
+    <a
+      href="/"
+      class="inline-block font-mono text-xs text-title-dark hover:text-primary transition-colors mb-12"
+    >
+      ← rafaelmendes.dev
+    </a>
+
+    <p class="text-primary font-mono text-sm mb-4">Wake Rower</p>
+    <h1 class="text-4xl md:text-5xl font-bold text-title-light mb-4">
+      Privacy Policy
+    </h1>
+    <p class="text-title-dark font-mono text-xs mb-12">
+      Last updated: {lastUpdated}
+    </p>
+
+    <section class="border-l-2 border-primary bg-card/40 px-6 py-5 mb-16">
+      <p class="font-mono text-xs text-primary mb-3">tl;dr</p>
+      <ul class="space-y-2 text-title-light">
+        <li class="flex gap-3">
+          <span class="text-primary font-mono">▸</span>
+          <span>No accounts. Nothing to sign up for.</span>
+        </li>
+        <li class="flex gap-3">
+          <span class="text-primary font-mono">▸</span>
+          <span>Fully offline. The app never talks to a server.</span>
+        </li>
+        <li class="flex gap-3">
+          <span class="text-primary font-mono">▸</span>
+          <span>No trackers, no analytics, no ads, no third parties.</span>
+        </li>
+        <li class="flex gap-3">
+          <span class="text-primary font-mono">▸</span>
+          <span>Your workouts stay on your device. Always.</span>
+        </li>
+      </ul>
+    </section>
+
+    <div class="space-y-12 text-title-dark leading-relaxed">
+      <section>
+        <h2 class="text-xl font-bold text-title-light mb-3">
+          What data we collect
+        </h2>
+        <p>
+          None. Wake Rower does not collect, transmit, or receive any personal
+          data. There is no signup, no login, no email, no profile.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-title-light mb-3">
+          Where your workouts are stored
+        </h2>
+        <p>
+          Locally on your device, in the app's private storage. Workouts never
+          leave your phone unless you explicitly export them yourself.
+          Uninstalling the app deletes everything.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-title-light mb-3">
+          Network access
+        </h2>
+        <p>
+          Wake Rower does not make network requests. The app works fully offline
+          and has no backend. You can put your phone in airplane mode and
+          nothing will change.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-title-light mb-3">
+          Analytics and trackers
+        </h2>
+        <p>
+          There are none. No Google Analytics, no Firebase, no Sentry, no
+          crash reporting, no ad SDKs, no fingerprinting. The app contains
+          zero third-party SDKs of that kind.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-title-light mb-3">
+          Permissions the app requests
+        </h2>
+        <p>
+          Only what's needed to run a workout. Optional access to motion
+          sensors and Bluetooth (to connect to a rower) is requested at the
+          moment you choose to use those features, and never sent anywhere.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-title-light mb-3">
+          Children's privacy
+        </h2>
+        <p>
+          Because Wake Rower collects no data at all, it collects none from
+          children either.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-title-light mb-3">
+          Changes to this policy
+        </h2>
+        <p>
+          If the app ever changes in a way that affects privacy, this page
+          will be updated and the date at the top will reflect the change.
+          The current commitment — no accounts, fully offline, no trackers —
+          is the whole point of the app.
+        </p>
+      </section>
+
+      <section>
+        <h2 class="text-xl font-bold text-title-light mb-3">Contact</h2>
+        <p>
+          Questions?
+          <a
+            href="mailto:rdesignedhead@gmail.com"
+            class="text-primary hover:underline"
+          >
+            rdesignedhead@gmail.com
+          </a>
+        </p>
+      </section>
+    </div>
+
+    <footer class="mt-20 pt-8 border-t border-title-dark/20">
+      <p class="font-mono text-xs text-title-dark">
+        Wake Rower — built by Rafael Mendes.
+      </p>
+    </footer>
+  </main>
+</Layout>
