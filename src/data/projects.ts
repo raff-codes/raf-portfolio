@@ -30,6 +30,12 @@ export const projects: Project[] = [
     tags: ["React", "TypeScript", "Hono", "Cloudflare Workers", "D1", "Clerk"],
   },
   {
+    title: "Wake Rower",
+    description:
+      "Android app that pairs with a MERACH rower over Bluetooth (FTMS, read-only), records each workout to an on-device SQLite database, and renders progress as a journey along hand-traced river routes drawn with Skia. Fully offline — no accounts, no sync.",
+    tags: ["React Native", "Expo", "TypeScript", "BLE / FTMS", "SQLite", "Drizzle ORM", "Skia"],
+  },
+  {
     title: "poly-lexis",
     description:
       "CLI tool and TypeScript library for managing i18n translations — auto-translation via DeepL/Google Translate, missing-key validation for CI/CD pipelines, type-safe TypeScript generation, and protected-terms support.",
