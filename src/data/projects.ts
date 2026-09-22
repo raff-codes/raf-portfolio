@@ -23,6 +23,13 @@ export const projects: Project[] = [
     tags: ["Next.js", "TypeScript", "Tailwind", "PostgreSQL", "Drizzle ORM", "AI"],
   },
   {
+    title: "Life in the UK",
+    description:
+      "Live study app for the Life in the UK citizenship test — a faithful 24-question mock exam drawn from a 408-question bank, plus a review mode that turns past mistakes into the next study session.",
+    link: "https://uk.rafaelmendes.co.uk",
+    tags: ["React", "TypeScript", "Hono", "Cloudflare Workers", "D1", "Clerk"],
+  },
+  {
     title: "poly-lexis",
     description:
       "CLI tool and TypeScript library for managing i18n translations — auto-translation via DeepL/Google Translate, missing-key validation for CI/CD pipelines, type-safe TypeScript generation, and protected-terms support.",
