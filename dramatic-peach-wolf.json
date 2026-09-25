@@ -57,9 +57,9 @@
           },
           "icon": "GithubLogo",
           "network": "GitHub",
-          "username": "designedhead",
+          "username": "raff-codes",
           "website": {
-            "url": "https://github.com/designedhead",
+            "url": "https://github.com/raff-codes",
             "label": "GitHub"
           }
         },
@@ -174,7 +174,7 @@
           "name": "graphql-query-toolkit",
           "period": "",
           "website": {
-            "url": "https://github.com/designedhead/graphql-query-toolkit",
+            "url": "https://github.com/raff-codes/graphql-query-toolkit",
             "label": "GitHub"
           },
           "description": "<p>Open-source npm package providing a tRPC-like developer experience for GraphQL — type-safe cache invalidation, multi-endpoint support, React Query integration, and CLI-driven code generation.</p><p><strong>Tech:</strong> TypeScript, GraphQL, React Query, GraphQL CodeGen</p>"
@@ -188,7 +188,7 @@
           "name": "react-focus-point",
           "period": "",
           "website": {
-            "url": "https://github.com/designedhead/react-focus-point",
+            "url": "https://github.com/raff-codes/react-focus-point",
             "label": "GitHub"
           },
           "description": "<p>Published npm package — a React component for dynamic focal point positioning on responsive images, using CSS object-fit with interactive coordinate selection.</p><p><strong>Tech:</strong> React, TypeScript, Tailwind CSS</p>"
@@ -216,7 +216,7 @@
           "name": "poly-lexis",
           "period": "",
           "website": {
-            "url": "https://github.com/designedhead/poly-lexis",
+            "url": "https://github.com/raff-codes/poly-lexis",
             "label": "GitHub"
           },
           "description": "<p>CLI tool and TypeScript library for managing i18n translations — auto-translation via DeepL/Google Translate, missing-key validation for CI/CD pipelines, type-safe TypeScript generation, and protected-terms support for brand names.</p><p><strong>Tech:</strong> TypeScript, Node.js, DeepL API, Jest, tsup</p>"

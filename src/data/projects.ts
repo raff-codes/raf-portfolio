@@ -5,14 +5,14 @@ export const projects: Project[] = [
     title: "GraphQL Query Toolkit",
     description:
       "Open-source npm package providing a tRPC-like developer experience for GraphQL — type-safe cache invalidation, multi-endpoint support, React Query integration, and CLI-driven code generation.",
-    github: "https://github.com/designedhead/graphql-query-toolkit",
+    github: "https://github.com/raff-codes/graphql-query-toolkit",
     tags: ["GraphQL", "TypeScript", "React Query", "GraphQL CodeGen", "package"],
   },
   {
     title: "React Focus Point",
     description:
       "Published npm package — a React component for dynamic focal point positioning on responsive images, using CSS object-fit with interactive coordinate selection.",
-    github: "https://github.com/designedhead/react-focus-point",
+    github: "https://github.com/raff-codes/react-focus-point",
     tags: ["React", "TypeScript", "Tailwind CSS", "package"],
   },
   {
@@ -39,7 +39,7 @@ export const projects: Project[] = [
     title: "poly-lexis",
     description:
       "CLI tool and TypeScript library for managing i18n translations — auto-translation via DeepL/Google Translate, missing-key validation for CI/CD pipelines, type-safe TypeScript generation, and protected-terms support.",
-    github: "https://github.com/designedhead/poly-lexis",
+    github: "https://github.com/raff-codes/poly-lexis",
     tags: ["TypeScript", "Node.js", "DeepL API", "Jest", "CLI"],
   },
   {
@@ -97,7 +97,7 @@ export const projects: Project[] = [
   {
     title: "See other Projects",
     description: "See other projects I was involved with...",
-    link: "https://github.com/designedhead",
+    link: "https://github.com/raff-codes",
     tags: [],
   },
 ];
